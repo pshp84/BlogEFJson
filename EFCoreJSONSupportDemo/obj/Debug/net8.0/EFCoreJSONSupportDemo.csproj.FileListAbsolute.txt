@@ -166,3 +166,4 @@ D:\BlogEFJson\EFCoreJSONSupportDemo\EFCoreJSONSupportDemo\bin\Debug\net8.0\runti
 D:\BlogEFJson\EFCoreJSONSupportDemo\EFCoreJSONSupportDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\BlogEFJson\EFCoreJSONSupportDemo\EFCoreJSONSupportDemo\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\BlogEFJson\EFCoreJSONSupportDemo\EFCoreJSONSupportDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BlogEFJson\EFCoreJSONSupportDemo\EFCoreJSONSupportDemo\obj\Debug\net8.0\EFCoreJSONSupportDemo.sourcelink.json
